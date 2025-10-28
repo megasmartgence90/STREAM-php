@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/comedy/tracks-v1a1/mono.m3u8?token=sersTp-j9qWlT0fNm1ci7wfYccSl_du50OSVo8DOZFpQzvQYwSEYQxW8kYEDXomZep0nzateN_EF_kPPxI-UclWiVNBWXLtcnpjjVJyQi_EyFKsS_tJkNC-vHCZQ6sxp3bSHppGpd6rZ2egN4JBs6dKsbPMmEt1KoV3qiA0zq74I7uRbGJwQl2ev1DduxAn4idB-vNamJQTEddiyhNnmf6UiwsBYl45_X6lgaZlkho-fKZMsUI6ylFncR9lIA8GA

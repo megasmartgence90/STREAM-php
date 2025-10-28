@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/espressotv/tracks-v1a1/mono.m3u8?token=ONWpt9fT1qYBkAvY_7CYMWAalWhyPuXIZxhJcLzJXqWUMpW3_02sVBOQY29HaT-FnLS-W8b8HSvz7fER4KvCvkTuI2yP9yZNz0IoPfgcLxPFqxMsZUpcgOw5sxAi0vVvUH_Q-FO_nJgl0uhFhhGDaQmxGfS7VXKTaxiP2ijCHMrUdIT8aHi0EpvYdBqzig9LVtyYrrmoSTSsi7i0zqhdg3aMvjZdZzVax56njMUcApVURgzBmOPTVziK2E0loZhkCHlaEq-nf00jiCagpknoqg%2A%2A
