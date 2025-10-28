@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/agrotv/tracks-v1a1/mono.m3u8?token=KVIObch4D91-eATksS1FhxA-EHdnxzRHD9Edzz6uVe0PCrDD3rioB-p-kynKMsnZTrmtCZjjDEckhvK3KmB8SIqlhJGp3BUfKDms4WhL0ukNojAH9eXMyF0EurWjKlDCULtfwKp0hLsKX2M6Aw85IntxeIUA-Nxj-VwVhrV157sdpXYsgxBfIU3c4BKIiFZba4mD0aoRreYn_O5PIgGAw0b6RiL9sVRH--zolvxa6NdomhDCRtQzefZbV_dulbMF
