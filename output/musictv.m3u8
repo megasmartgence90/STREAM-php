@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/musictv/tracks-v1a1/mono.m3u8?token=c5BBvdlEPnb4J8IJRMfwlHnFGJauTpKdqFSttwxZQlaIekpvQ2J5bBqrfwt0lqCSNbAwd8uJoWcjCJHaAWZ76l3SxZdaNgjo8o1Rj0PFlU1aeEEPcqwDquLh7GSgBtOdutYe3So7-48WHKjDdnwjklhclTqW2iLg38egW3uuyIIhYpIyE7-l9o2HnDELcuqlxaAhj0eJxJ8XiXmek3gQxvX5U38iQr7iRyPCuRd2FVFgnCoZ9RXC5IPcAGd0ibNKnHtos45PnjU0osrd7iO6RA%2A%2A

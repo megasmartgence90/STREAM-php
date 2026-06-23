@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8?token=XjMgGdSztdNE9c5yFVJWOaB71BrBIfjCuheqkfdEQyBQbP34kOCUYbwT9IqzJwMY13O20rxIfSmSjFEZaUX7_uwiMlIiQYG4uDKsO_Jx6Byi6vd0b8BEVslvdw2s55cDEvlWP-_UU4Ovy6txVUhi6PEIJkDa_z-f1jUIwzPhCk-9bMFRrq6zDbUoqBdxllDptmgIpWtjzEvjO7oeBvbKtDNPlpwwYgCRgOjT7I12l-C5pN_YeSgHcifRFg35qkLv-O33aULKIxxRohurkE8wlA%2A%2A
