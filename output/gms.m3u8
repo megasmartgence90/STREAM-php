@@ -1,2 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://tbs01-edge17.itdc.ge/gms/tracks-v1a1/mono.m3u8?token=-H3J2jpi6TZNxm3UZcGCMupGZcs0x46Yjli9UT6HTA_R2EUWX868dTnID6a9feQtr6yq1kXR-hYPAXYxx3TnoPWDwuiyhH-bGw4VlSk2rUwzhxnnnuKtEHQKreDHNWsyaERfY7tKBYtQky_bsaJwnJKRYUg2ftupZEOnh0opyjYzk16dxFnklnVvtlLy35i9buD3_bciz8Ye_Gq6O1WdtWF6TB6650m_emhBk98__E02vV-och5BnsYQ4SNjy_Xt
