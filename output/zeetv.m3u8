@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720
+http://hls127.freeott.top:8080/Zee_Russia/tracks-v1a1l1/mono.m3u8
 http://tbs01-edge17.itdc.ge/zeetv/tracks-v1a1/mono.m3u8?token=ozdC4Y_ioudhNQHmnLeduf4ERbfcZqcWp9H6utQ6lg65n5xrtBKRXX0kihcGjZGxHZqryQM64JmwVhPiyH2giBRBJ6DZHR6z92utJ8pMm3GZKkudzI6lJQZs-1hgSo0FkDcIN4eJ2CqkcatUhDlWBa_0Qkv77w_3w4lvZQ5dn1RsRxh1suFXfBDcb-Wsila1LpWJgOLY0EXnzkPaNeLGLqQ_y-VTge_qrW0xfdy7KMZ_aJhlOIIwUjhlv2CUFvXw
